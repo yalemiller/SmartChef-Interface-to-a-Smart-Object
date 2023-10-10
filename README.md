@@ -1,6 +1,6 @@
 # SmartChef-Interface-to-a-Smart-Object
 
-*Getting Started:*
+**Getting Started:**
 
 Run "npm install" to install the following required packages
   -bootstrap
@@ -8,6 +8,9 @@ Run "npm install" to install the following required packages
   -react-dom
   -react
   -vite
+
+
+Using the application 
 
 
 
