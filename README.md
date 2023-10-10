@@ -10,7 +10,7 @@ Run "npm install" to install the following required packages
   -vite
 
 
-**Using the application:**
+## Using the application:
 
 SmartChef will load into the menu page which will be BLANK. This is normal and is because no appliances are selected from the drop down menu. Either choose a profile to select their appliances or choose from the list yourself
 
